@@ -1,28 +1,14 @@
 # Useful tricks you might not know about Git stash
 
-Markup : * Git stash save
-         * Git stash list
-         * Git stash apply
-         * Git stash pop
-         * Git stash show
-         * Git stash branch <name>
-         * Git stash clear
-         * Git stash drop
+### Git stash save
+### Git stash list
+### Git stash apply
+### Git stash pop
+### Git stash show
+### Git stash branch <name>
+### Git stash clear
+### Git stash drop
 
-Markup : * Git stash save
-          * Bullet list item 2
-
- Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
-
--OR-
-
- Markup : - Bullet list
-              - Nested bullet
-                  - Sub-nested bullet etc
-          - Bullet list item 2 
           
 ## Git stash save
 This command is like Git stash. But this command comes with various options. I will discuss some important options in this post.
