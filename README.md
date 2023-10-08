@@ -9,7 +9,11 @@ Markup : * Git stash save
          * Git stash clear
          * Git stash drop
 
+Markup : * Git stash save
+          * Bullet list item 2
+          
 
+          
 ## Git stash save
 This command is like Git stash. But this command comes with various options. I will discuss some important options in this post.
 
