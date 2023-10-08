@@ -1,13 +1,13 @@
 # Useful tricks you might not know about Git stash
 
-*Git stash save
-*Git stash list
-*Git stash apply
-*Git stash pop
-*Git stash show
-*Git stash branch <name>
-*Git stash clear
-*Git stash drop
+* Git stash save
+* Git stash list
+* Git stash apply
+* Git stash pop
+* Git stash show
+* Git stash branch <name>
+* Git stash clear
+* Git stash drop
 
 
 ## Git stash save
