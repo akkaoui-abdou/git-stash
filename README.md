@@ -1,4 +1,4 @@
-# git-stash
+# Useful tricks you might not know about Git stash
 
 Git stash save
 Git stash list
